@@ -1,0 +1,12 @@
+# 根仓库只跟踪顶层文档，三个子项目各自作为 submodule 管理
+# 子项目内部的大目录（node_modules/dist/release 等）由各自 .gitignore 管
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.idea/
+*.log
+
+# 临时/草稿
+*.tmp
+*.bak

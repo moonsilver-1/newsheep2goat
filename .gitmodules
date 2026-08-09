@@ -1,0 +1,9 @@
+[submodule "hdu-wiki-frontend"]
+	path = hdu-wiki-frontend
+	url = https://github.com/moonsilver-1/hdu-wiki-frontend.git
+[submodule "desktop-app"]
+	path = desktop-app
+	url = https://github.com/moonsilver-1/hdu-wiki-desktop.git
+[submodule "dudu-app"]
+	path = dudu-app
+	url = https://github.com/moonsilver-1/dudu-app.git
