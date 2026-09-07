@@ -10,3 +10,7 @@ Thumbs.db
 # 临时/草稿
 *.tmp
 *.bak
+
+# Local working artifacts
+/.zcode/
+/release/
